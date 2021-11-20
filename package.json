@@ -1,0 +1,17 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "Arjuna",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0-dev.1632744178.3b14883",
+    "discordjs-button-pagination": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "fero-ms": "^2.0.7",
+    "simply-djs": "^2.0.76",
+    "yt-search": "^2.10.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
